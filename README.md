@@ -19,34 +19,54 @@ It covers important Bootstrap UI elements such as:
 **The presentation also includes:**
 
 **Introduction to Bootstrap**
+
 **Advantages of Bootstrap components**
+
 Sample Bootstrap code snippets
 Conclusion
 Topics Covered
+
+
 **1. Introduction to Bootstrap**
 What Bootstrap is
 Features of Bootstrap
 Responsive design concepts
+
+
 **2. Navbar Component**
 Purpose of navbars
 Responsive navigation menus
 Example Bootstrap navbar code
+
+
+
 **3. Card Component**
 Creating content cards
 Displaying text and images
 Example Bootstrap card code
+
+
 **4. Modal Component**
 Popup dialog boxes
 Interactive user interfaces
 Example Bootstrap modal code
+
+
+
 **5. Advantages of Bootstrap**
 Faster development
 Mobile-friendly design
 Easy customization
 Consistent UI
+
+
+
 **6. Conclusion**
 Summary of Bootstrap components
 Importance in responsive web design
+
+
+
 **Technologies Used**
 Bootstrap 5
 HTML
@@ -54,6 +74,8 @@ CSS
 JavaScript
 Microsoft PowerPoint
 Purpose
+
+
 
 **This presentation is useful for:**
 
